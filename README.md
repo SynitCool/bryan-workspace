@@ -31,4 +31,7 @@ VITE_SERVER_URL = "<your-server-url>"
 ./dev-server.sh
 ```
 
+# For more info 
+Check out the details in https://bryanalhilalsiregar.web.ugm.ac.id/bryan-workspace
+
 Enjoy!
