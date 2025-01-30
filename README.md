@@ -22,11 +22,12 @@ Content of .env of client folder
 ```
 VITE_SERVER_URL = "<your-server-url>"
 ```
-3. Run client
+3. Run `npm install` in client directory and server directory
+4. Run client
 ```
 ./dev-client.sh
 ```
-4. Run server
+5. Run server
 ```
 ./dev-server.sh
 ```
